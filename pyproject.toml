@@ -1,5 +1,5 @@
 [project]
-name = "stay-awake"
+name = "fake-focus"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-stay-awake = "stay_awake:main"
+fake-focus = "fake_focus:main"
 
 [build-system]
 requires = ["uv_build>=0.9.3,<0.10.0"]
