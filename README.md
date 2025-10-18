@@ -47,4 +47,8 @@ Perfect for:
 
 ```bash
 uvx fake-focus
+
+# Or
+
+uvx fake-focus start
 ```
