@@ -1,4 +1,4 @@
-# 💤 Stay Awake
+# 💤 Fake Focus
 
 > The ultimate productivity tool — for looking productive.
 
@@ -6,7 +6,7 @@
 
 ## 🚀 What is this?
 
-**Stay Awake** is a *revolutionary* command-line application designed to help developers  
+**Fake Focus** is a *revolutionary* command-line application designed to help developers  
 maintain **maximum focus** (or at least the illusion of it).
 
 It continuously performs *extremely important background operations* like:
@@ -20,10 +20,10 @@ All while making sure your computer — and your colleagues — believe you’re
 
 ---
 
-## 🧠 Why use Stay Awake?
+## 🧠 Why use Fake Focus?
 
 Because sometimes, *being active* is more important than *being productive*.  
-Stay Awake keeps your system alive, your Slack status green, and your conscience quiet.
+Fake Focus keeps your system alive, your Slack status green, and your conscience quiet.
 
 Perfect for:
 - Long “thinking sessions” 🧘‍♂️  
@@ -46,5 +46,5 @@ Perfect for:
 ## 💾 Installation (Just use uv and run it as a tool)
 
 ```bash
-uvx stay-awake
+uvx fake-focus
 ```
