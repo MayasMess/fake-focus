@@ -1,0 +1,21 @@
+[project]
+name = "stay-awake"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "mayasnova", email = "mayas.nova.pro@gmail.com" }
+]
+requires-python = ">=3.8"
+dependencies = [
+    "pyautogui>=0.9.54",
+    "pynput>=1.8.1",
+    "rich>=14.2.0",
+]
+
+[project.scripts]
+stay-awake = "stay_awake:main"
+
+[build-system]
+requires = ["uv_build>=0.9.3,<0.10.0"]
+build-backend = "uv_build"
