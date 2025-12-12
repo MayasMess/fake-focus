@@ -1,6 +1,6 @@
 # 💤 Fake Focus
 
-> The ultimate productivity tool — for looking productive.
+> The ultimate productivity tool for looking productive.
 
 ---
 
