@@ -46,5 +46,5 @@ Perfect for:
 ## 💾 Installation (Just use uv and run it as a tool)
 
 ```bash
-uvx fake-focus
+uvx --from git+https://github.com/MayasMess/fake-focus fake-focus
 ```
